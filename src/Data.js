@@ -18,12 +18,12 @@ const Data = {
     ],
     frameworks: [
         { name: "Tailwind - Bootstrap", level: 90 },
-        { name: "React", level: 70 },
-        { name: "Express - Laravel", level: 70 },
+        { name: "React - Express", level: 90 },
+        { name: "Symfony - Laravel", level: 70 },
     ],
     tools: [
-        { name: "GitLab - GitHub - SVN", level: 100 },
-        { name: "Docker", level: 80 },
+        { name: "GitLab/GitHub - Docker - Linux/Windows", level: 100 },
+        { name: "Diagrammes classes / séquences / cas d'utilisations", level: 70 },
         { name: "Gimp - InkScape", level: 60 },
     ],
     interets: ["Escalade", "Échec", "Jeux Vidéo"],
