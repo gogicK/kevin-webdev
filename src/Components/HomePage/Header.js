@@ -12,7 +12,7 @@ export default function Header() {
                 <h2 className="typing text-secondaryDark text-xl lg:text-2xl">Développeur <TypeWriterV2 data={[" web front-end.", " web back-end.", " d'applications mobiles.", " de logiciels."]} /></h2>
                 <p className="text-base md:text-lg"><b>Développeur passionné</b>, spécialisé dans la création de sites dynamiques et réactifs. Polyvalent en front-end et back-end, je conçois des solutions optimisées et centrées sur l'utilisateur, tout en suivant les dernières tendances du web.</p>
                 <div className="flex flex-col justify-center items-center text-center">
-                    <Link to={'/kevin-webdev/cvA4'} className="btn-primary text-lg w-96">
+                    <Link to={'/cvA4'} className="btn-primary text-lg w-96">
                         Voir mon CV au format A4 classique
                     </Link><span className="italic text-lg"> ou continuez de scroller !</span>
                 </div>
